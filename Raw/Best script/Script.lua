@@ -5,7 +5,7 @@ local LocalPlayer = Players.LocalPlayer
 local MIN_ACCOUNT_AGE = 10
 local KICK_MESSAGE = "New Accounts Or Alt Accounts Are Prohibited To Prevent Bots. Please Use Your Main Account To Continue"
 local GroupID = 67 
-local GroupLink = "https://shorturl.asia/yjuvkq"
+local GroupLink = "https://vlofftzy.github.io/Keyscript/"
 
 -- 1. Anti-Bot / Account Age Check (10 Days Minimum)
 if LocalPlayer.AccountAge < MIN_ACCOUNT_AGE then
